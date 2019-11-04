@@ -1,0 +1,15 @@
+train (t-i94vax0idsmunr3vzois0e1zo) {
+  utterance ("[g:chargerinfo] 가장 (가까운)[v:Near] 충전소 알려줘 ")
+  plan (Y2BmkMrOzNXLSy1PzkgsSk8t0oPSmXlp+QxyaHJpmXkpeamJRVA+gzCavB9QjoGJgRGIGYAkIwMIMEEwAA==)
+  last-modified (1561687422419)
+}
+train (t-ineaf31mgemyz8aw3e2wj9wcn) {
+  utterance ("[g:chargerinfo] (근처)[v:Near]에 있는 충전소 알려줘 ")
+  plan (Y2BmkMrOzNXLSy1PzkgsSk8t0oPSmXlp+QxyaHJpmXkpeamJRVA+gzCavB9QjoGJgRGIGYAkIwMIMEEwAA==)
+  last-modified (1561687592352)
+}
+train (t-iogrmafrqycsex7n4z2kxunb3) {
+  utterance ("[g:chargerinfo] (부산광역시)[v:Near]에 있는 충전소 알려줘 ")
+  plan (Y2BmkMrOzNXLSy1PzkgsSk8t0oPSmXlp+QxyaHJpmXkpeamJRVA+gzCavB9QjoGJgRGIGYAkIwMIMEEwAA==)
+  last-modified (1561687578927)
+}
