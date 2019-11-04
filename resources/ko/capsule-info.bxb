@@ -1,0 +1,15 @@
+capsule-info{
+  display-name (전기차충전소알림이)
+  developer-name (charger_company)
+  icon-asset (/images/charger.PNG)
+  description ("원하는 위치의 충전소 정보를 제공합니다.")
+  privacy-policy-url (https://docs.google.com/document/d/e/2PACX-1vSGEv1savCE0eYzPgWxuVs6mqt_dvUAVxSu8exB8Pk3GNKZ12JTZGYSMmvDdTgy0hX7jWV3Ex20CiV9/pub)
+  search-keywords{
+    keyword (전기차충전소)
+    keyword (충전소)
+  }
+  dispatch-name(충전소알림이)
+  dispatch-aliases{
+    alias (충전소 알림이)
+  }
+}
