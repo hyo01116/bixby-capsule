@@ -1,0 +1,5 @@
+train (t-bam6px4wv7axm335vse2bxcms) {
+  utterance ("[g:chargerinfo] 내 (근처)[v:Near]에 있는 충전소 찾아줘")
+  plan (Y2BmkMrOzNXLSy1PzkgsSk8t0oPSmXlp+QxyaHJpmXkpeamJRVA+gzCavB9QjoGJgRGIGYAkIwMIMEEwAA==)
+  last-modified (1561822534229)
+}
