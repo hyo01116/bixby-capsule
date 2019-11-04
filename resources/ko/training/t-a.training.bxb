@@ -1,0 +1,10 @@
+train (t-ahqzusbq0r6keaiexcmi47b9e) {
+  utterance ("[g:kim.newcharger.chargerinfo] 내 (주변)[v:kim.newcharger.Near]에 있는 충전소 찾아줘")
+  plan (Y2BmkMrOzNXLSy1PzkgsSk8t0oPSmXlp+QxyaHJpmXkpeamJRVA+gzCavB9QjoGJgRGIGYAkIwMIMEEwAA==)
+  last-modified (1561822515048)
+}
+train (t-ahss5tprpq9cxajz8u4d8zqah) {
+  utterance ("[g:chargerinfo] 여기서 가장 (가까운)[v:Near] 충전소 찾아줘")
+  plan (Y2BmkMrOzNXLSy1PzkgsSk8t0oPSmXlp+QxyaHJpmXkpeamJRVA+gzCavB9QjoGJgRGIGYAkIwMIMEEwAA==)
+  last-modified (1561813830395)
+}
