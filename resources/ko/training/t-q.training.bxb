@@ -1,0 +1,10 @@
+train (t-q1nd8ppns0mrazw7rvgyvu10c) {
+  utterance ("[g:chargerinfo] 현재 위치에서 가장 (가까운)[v:Near] 충전소 알려줘")
+  plan (Y2BmkMrOzNXLSy1PzkgsSk8t0oPSmXlp+QxyaHJpmXkpeamJRVA+gzCavB9QjoGJgRGIGYAkIwMIMEEwAA==)
+  last-modified (1561814352966)
+}
+train (t-qrh0fau2tgsvfjpzsmhigr8ny) {
+  utterance ("[g:chargerinfo] (주변)[v:Near]에 있는 충전소 알려줘 ")
+  plan (Y2BmkMrOzNXLSy1PzkgsSk8t0oPSmXlp+QxyaHJpmXkpeamJRVA+gzCavB9QjoGJgRGIGYAkIwMIMEEwAA==)
+  last-modified (1561687499184)
+}
