@@ -1,0 +1,4 @@
+structure (Point) {
+  description (My location)
+  role-of (geo.NamedPoint)
+}
