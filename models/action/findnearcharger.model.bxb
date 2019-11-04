@@ -1,0 +1,31 @@
+action (findnearcharger) {
+  description (find the nearest charger in your place)
+  type(Search)
+  collect {
+    input (near) {
+      type (Near)
+      min (Optional) max (One)
+    }
+    computed-input (point){
+      type (Point)
+      min (Optional) max (One)
+      compute{
+        if(exists(near)){
+          intent{
+            goal : Point
+            route : geo.CurrentLocation
+          }
+        }
+      }
+    }
+  }
+  output (chargerinfo){
+    on-empty{
+      halt{
+        dialog{
+          template ("현재 주변에 충전소가 없습니다.")
+        }
+      }
+    }
+  }
+}
