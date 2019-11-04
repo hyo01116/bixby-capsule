@@ -1,0 +1,28 @@
+capsule {
+  id (kim.newcharger)
+  version (1.2.1)
+  format (3)
+  targets {
+    target (bixby-mobile-en-US) {enabled (false)}
+    target (bixby-mobile-ko-KR) {enabled (true)}
+  }
+  runtime-flags {
+    no-filtering-with-validation
+    modern-default-view-behavior
+    use-input-views-for-selection-list-detail
+    concepts-inherit-super-type-features
+    modern-prompt-rejection
+    support-halt-effect-in-computed-inputs
+  }
+  capsule-imports{
+    import (viv.geo){
+      as (geo) version (9.21.0)
+    }
+  }
+  permissions{
+    user-profile-access
+  }
+  store-sections{
+    section(Local)
+  }
+}
