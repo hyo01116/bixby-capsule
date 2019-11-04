@@ -1,0 +1,5 @@
+train (t-8wba620fqv2g57rn78ogokmc5) {
+  utterance ("[g:chargerinfo] (대구광역시)[v:Near]에 있는 충전소 알려줘 ")
+  plan (Y2BmkMrOzNXLSy1PzkgsSk8t0oPSmXlp+QxyaHJpmXkpeamJRVA+gzCavB9QjoGJgRGIGYAkIwMIMEEwAA==)
+  last-modified (1561984285928)
+}
