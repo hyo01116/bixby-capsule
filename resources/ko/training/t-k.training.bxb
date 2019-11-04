@@ -1,0 +1,10 @@
+train (t-kav6h9j8choqfdl49tr8sr27q) {
+  utterance ("[g:chargerinfo] (전주시)[v:Near]에 있는 충전소 알려줘 ")
+  plan (Y2BmkMrOzNXLSy1PzkgsSk8t0oPSmXlp+QxyaHJpmXkpeamJRVA+gzCavB9QjoGJgRGIGYAkIwMIMEEwAA==)
+  last-modified (1561814207869)
+}
+train (t-kdkf1yod47pp9znvx3tw04cmp) {
+  utterance ("[g:chargerinfo] 가장 (가까이)[v:Near]에 있는 충전소 어디니 ")
+  plan (Y2BmkMrOzNXLSy1PzkgsSk8t0oPSmXlp+QxyaHJpmXkpeamJRVA+gzCavB9QjoGJgRGIGYAkIwMIMEEwAA==)
+  last-modified (1561822475233)
+}
