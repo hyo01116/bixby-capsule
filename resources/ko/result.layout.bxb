@@ -1,0 +1,16 @@
+layout-macro-def (result){
+  params{
+    param(info){
+      type(chargerinfo)
+      min (Required) max (One)
+    }
+  }
+  content{
+    paragraph{
+      value{
+        template ("#{value(info)}")
+      }
+      style(Title_XS)
+    }
+  }
+}
